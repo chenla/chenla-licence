@@ -13,11 +13,12 @@ licences.
 
 To this end, all content and code:
 
+#+begin_quote
+Copyright (c) 2017 The Chenla Institute
 
-   Copyright (c) 2017 The Chenla Institute
-
-   All text, images, audio, video and other multimedia is licensed
-   under the CC BY-SA 4.0 license.  All code, including code fragments
-   embedded in texts is licensed under the MIT Licence.
+All text, images, audio, video and other multimedia is licensed
+under the CC BY-SA 4.0 license.  All code, including code fragments
+embedded in texts is licensed under the MIT Licence.
+#+end_quote
 
 Please see the LICENSE file for the full text of each licence.
