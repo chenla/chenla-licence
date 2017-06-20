@@ -3,15 +3,14 @@
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-release-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/tag-v1.0.0-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/tag-v1.0.1-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 This repo contains the latest version of the standard license for all
 content and code created by The Chenla Institute.
 
-A key part of the mandate for the Institute is that all creative works
-and content that the Institute creates is released under free and open
-licences.
+A key part of the Institute's mandate is that all creative works and
+content is released under free and open licences.
 
 To this end, all content and code:
 
