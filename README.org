@@ -1,9 +1,27 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+
 * Chenla Standard Content & Code License
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/chenla-licence/README.org
+  :Created:   2017-06-22T11:21@Prek Leap (11.642600N-104.919210W)
+  :ID:        c86c3317-b1df-4e62-b1cb-a7a9b886095f
+  :VER:       551377350.239882273
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:JIA5-2547
+  :Category:  deploy
+  :Entity:    readme
+  :Status:    release
+  :Tag:       v1.0.2
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]] 
+[[https://img.shields.io/badge/entity-readme-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-release-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/tag-v1.0.1-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/tag-v1.0.2-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 This repo contains the latest version of the standard license for all
