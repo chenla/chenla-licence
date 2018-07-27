@@ -41,3 +41,9 @@ embedded in texts is licensed under the MIT Licence.
 #+end_quote
 
 Please see the LICENSE file for the full text of each licence.
+
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/decks ]] Please
+submit pull requests and issues there.  A read-only mirror is
+maintained @ [[https://github.com/chenla/decks ]]
