@@ -33,7 +33,7 @@ content is released under free and open licences.
 To this end, all content and code:
 
 #+begin_quote
-Copyright (c) 2017–2018 The Chenla Institute
+Copyright (c) 2017–2019 The Chenla Institute
 
 All text, images, audio, video and other multimedia is licensed
 under the CC BY-SA 4.0 license.  All code, including code fragments
@@ -44,6 +44,6 @@ Please see the LICENSE file for the full text of each licence.
 
 --- 
 
-*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/decks ]] Please
+*NOTE*: The primary repo is @ [[http://git.chenla.org/chenla/docs/chenla-licence ]] Please
 submit pull requests and issues there.  A read-only mirror is
-maintained @ [[https://github.com/chenla/decks ]]
+maintained @ [[https://github.com/chenla/chenla/docs/chenla-licence
